@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\C#ProjectWork#1Client.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\C#ProjectWork#1Client.csproj",
       "projectName": "C#ProjectWork#1Client",
-      "projectPath": "C:\\Users\\user\\source\\repos\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\C#ProjectWork#1Client.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\C#ProjectWork#1Client.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork#1Client\\C#ProjectWork#1Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

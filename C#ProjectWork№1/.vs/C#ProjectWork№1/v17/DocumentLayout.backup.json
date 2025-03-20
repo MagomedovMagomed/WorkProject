@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork\u21161\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F28B86-6665-4B69-B4E2-05421748695F}|C#ProjectWork\u21161\\C#ProjectWork\u21161Server.csproj|c:\\users\\user\\source\\repos\\magomedovmagomed\\workproject\\c#projectwork\u21161\\c#projectwork\u21161\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F28B86-6665-4B69-B4E2-05421748695F}|C#ProjectWork\u21161\\C#ProjectWork\u21161Server.csproj|solutionrelative:c#projectwork\u21161\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork\u21161\\C#ProjectWork\u21161\\Server.cs",
+              "RelativeDocumentMoniker": "C#ProjectWork\u21161\\Server.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MagomedovMagomed\\WorkProject\\C#ProjectWork\u21161\\C#ProjectWork\u21161\\Server.cs",
+              "RelativeToolTip": "C#ProjectWork\u21161\\Server.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwMcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:00:34.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
